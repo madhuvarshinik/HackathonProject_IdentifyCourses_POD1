@@ -5,11 +5,11 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.asserts.SoftAssert;
 
-import com.hackathonProject.constants.FrameworkConstants;
-import com.hackathonProject.pages.HomePage;
-import com.hackathonProject.pages.SearchResultsPage;
-import com.hackathonProject.pages.SearchResultsPage.CourseInfo;
-import com.hackathonProject.utils.ExtentReportManager;
+import com.hackathonproject.constants.FrameworkConstants;
+import com.hackathonproject.pages.HomePage;
+import com.hackathonproject.pages.SearchResultsPage;
+import com.hackathonproject.pages.SearchResultsPage.CourseInfo;
+import com.hackathonproject.utils.ExtentReportManager;
 
 import java.util.List;
 

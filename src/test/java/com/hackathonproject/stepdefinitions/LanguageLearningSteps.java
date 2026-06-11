@@ -5,8 +5,8 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.asserts.SoftAssert;
 
-import com.hackathonProject.pages.LanguageCoursesPage;
-import com.hackathonProject.utils.ExtentReportManager;
+import com.hackathonproject.pages.LanguageCoursesPage;
+import com.hackathonproject.utils.ExtentReportManager;
 
 import java.util.Map;
 
