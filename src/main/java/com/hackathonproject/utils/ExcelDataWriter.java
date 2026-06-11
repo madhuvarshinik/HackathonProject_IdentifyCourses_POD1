@@ -11,22 +11,22 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.List;
 
-public class ExcelDataWriter {
-    package com.hackathonproject.utils;
-
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
-import com.hackathonproject.pages.SearchResultsPage.CourseInfo;
-
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Cell;
-
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.util.List;
+//public class ExcelDataWriter {
+//    package com.hackathonproject.utils;
+//
+//import org.apache.logging.log4j.LogManager;
+//import org.apache.logging.log4j.Logger;
+//import org.apache.poi.xssf.usermodel.XSSFSheet;
+//import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+//
+//import com.hackathonproject.pages.SearchResultsPage.CourseInfo;
+//
+//import org.apache.poi.ss.usermodel.Row;
+//import org.apache.poi.ss.usermodel.Cell;
+//
+//import java.io.FileOutputStream;
+//import java.io.IOException;
+//import java.util.List;
 
     public class ExcelDataWriter {
 
@@ -101,4 +101,4 @@ import java.util.List;
             }
         }
     }
-}
+
