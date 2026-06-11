@@ -1,11 +1,46 @@
-.idea
-.settings
+# =============================
+# IDE / Project files
+# =============================
+.idea/
+.settings/
 .classpath
 .project
+.metadata/
+
+# =============================
+# Build folders
+# =============================
 target/
-screenshots
-.metadata
-.allure
+
+# =============================
+# Logs
+# =============================
 logs/
+*.log
+
+# =============================
+# Test output / Reports (Generated files)
+# =============================
 reports/
 test-output/
+screenshots/
+allure-results/
+allure-report/
+
+# =============================
+# OS files
+# =============================
+.DS_Store
+Thumbs.db
+
+# =============================
+# Excel / Generated data (optional)
+# =============================
+*.xlsx
+
+# =============================
+# Temporary files
+# =============================
+*.tmp
+*.bak
+*.swp
