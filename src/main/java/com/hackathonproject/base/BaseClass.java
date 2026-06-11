@@ -11,7 +11,7 @@ import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
-import com.hackathonProject.utils.ConfigReader;
+import com.hackathonproject.utils.ConfigReader;
 
 import java.time.Duration;
 
