@@ -11,7 +11,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.List;
-
+import com.hackathonproject.pages.SearchResultsPage.CourseInfo;
 //public class ExcelDataWriter {
 //    package com.hackathonproject.utils;
 //
