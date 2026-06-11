@@ -15,7 +15,7 @@ Feature: Business Contact Form - Invalid Email Validation
     When the user clicks on Contact Sales
     And the user fills the contact form with the following details:
       | firstName | lastName | email                  |
-      | Balaji   | Reddy    | balajicogniznat.com   |
+      | Madhu  | Varshini | madhuvarshinicogniznat.com   |
     Then an email validation error message should be displayed
     And the error message should contain "valid email"
 
